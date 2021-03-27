@@ -1,16 +1,28 @@
-### Hi there 👋
+### 🌱 Working on a project
+--- 
+##### Bio: 
+#### ✨ I'm gonna be CEO of my startup.
+--- 
 
-<!--
-**htmldev30/htmldev30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Languages:**  
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+##### Skills:
+
+-   ![Express.JS](https://img.shields.io/badge/-Express.JS-black?style=flat-square&logo=Express.JS) 
+-  ![Node.JS](https://img.shields.io/badge/-Node.JS-black?style=flat-square&logo=Node.js) 
+-   ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+-   ![Django](https://img.shields.io/badge/-Django-black?style=flat-square&logo=Django)
+
+
+---
+##### Languages: 
+-   ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+-   ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+
+
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=htmldev30&show_icons=true&theme=light" alt="htmldev30" /> 
+  
