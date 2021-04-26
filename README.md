@@ -3,7 +3,6 @@
 ### ✨ I'm gonna be CEO of my startup.
 --- 
 
-**Languages:**  
 ##### Skills:
 
 -   ![Express.JS](https://img.shields.io/badge/-Express.JS-black?style=flat-square&logo=Express.JS) 
