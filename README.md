@@ -16,5 +16,5 @@
 -   ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 
 ---
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=htmldev30&show_icons=true&theme=" alt="htmldev30" /> 
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=htmldev30&show_icons=true&theme=dark" alt="htmldev30" /> 
   
