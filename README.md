@@ -1,6 +1,6 @@
 
 ##### Bio: 
-### ✨ I'm gonna be CEO of my startup.
+### ✨ Everything is obselete.
 --- 
 
 ##### Skills:
