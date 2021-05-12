@@ -5,7 +5,7 @@
 ##### Skills:
 
 -   ![Express.JS](https://img.shields.io/badge/-Express.JS-black?style=flat-square&logo=Express.JS) 
--  ![Node.JS](https://img.shields.io/badge/-Node.JS-black?style=flat-square&logo=Node.js) 
+-   ![Node.JS](https://img.shields.io/badge/-Node.JS-black?style=flat-square&logo=Node.js) 
 -   ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 -   ![Django](https://img.shields.io/badge/-Django-black?style=flat-square&logo=Django)
 
