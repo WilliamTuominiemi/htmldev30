@@ -1,3 +1,6 @@
+<p align="center" >
+<img src = "https://github.com/LisaDziuba/Awesome-Design-Tools/raw/master/Media/awesome-design-tools-joins-abstract-cover.png"/>
+</p>
 
 ##### Bio: 
 ### ✨ Everything is obselete.
